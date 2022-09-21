@@ -48,6 +48,8 @@
     <h1>좋아 이제 jar 실행만 !!</h1>
     <h1>권한 설정까지 했고</h1>
     <h1>마지막 테스트는? 성공</h1>
+   
+    출처: https://brocess.tistory.com/82 [행복한디벨로퍼:티스토리]
 </div>
 <div>
     <h1> jenkins good</h1>
