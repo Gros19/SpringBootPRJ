@@ -4,7 +4,6 @@
 
 
 <html lang="en">
-
 <!-- Mirrored from bootstrap.gallery/maxwell/designs/gradient-version/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 12 Apr 2022 21:42:44 GMT -->
 <head>
     <!-- Required meta tags -->
@@ -40,9 +39,6 @@
 
 
 <body>
-<h1>ggg</h1>
-<h1>ggg</h1><h1>ggg</h1><h1>ggg</h1>
-<h1>ggg</h1>
 <!-- Loading starts -->
 <div id="loading-wrapper">
     <div class="spinner-border" role="status">
@@ -445,6 +441,12 @@
     <!-- Page content start  -->
     <div class="page-content">
 
+        <div>
+            정은아
+            정은아
+            ㅎ
+            계속 부르고 싶네
+        </div>
         <!-- Header start -->
         <header class="header">
             <div class="toggle-btns">
