@@ -28,7 +28,6 @@ public class MemberController {
     IMemberService memberService;
 
 
-
     @GetMapping(value="/index")
     public String index() {
         return "/member/index";
