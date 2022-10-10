@@ -20,8 +20,8 @@
 
 
 <div>
-    <button onclick="window.location.href='http://localhost:8443/getCorp'">모든 회사 보기</button>
-    <button onclick="window.location.href='http://localhost:8443/getFilterCorp'">흑자 기업만 보기</button>
+    <button onclick="window.location.href='https://gros24.click:8443/getCorp'">모든 회사 보기</button>
+    <button onclick="window.location.href='https://gros24.click:8443/getFilterCorp'">흑자 기업만 보기</button>
 </div>
 <br/>
 
