@@ -14,7 +14,7 @@
     <link rel="shortcut icon" href="../img/fav.png" />
 
     <!-- Title -->
-    <title>Maxwell Admin Template - Login</title>
+    <title>Login</title>
 
     <!-- *************
         ************ Common Css Files *************
@@ -133,7 +133,6 @@
                 <div class="login-screen">
                     <div class="login-box">
                         <a href="#" class="login-logo">
-                            <img src="../img/logo-dark.png" alt="Maxwell Admin Dashboard" />
                         </a>
                         <h5>Welcome back,<br />Please Login to your Account.</h5>
                         <div class="form-group">
