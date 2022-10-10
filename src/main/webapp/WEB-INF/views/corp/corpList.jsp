@@ -29,8 +29,9 @@
     <div class="row justify-content-md-center">
         <div class="col-xl-4 col-lg-5 col-md-6 col-sm-12">
 
-            <button onclick="window.location.href='https://gros24.click/getCorp'">모든 회사 보기</button>
-            <button onclick="window.location.href='https://gros24.click/getFilterCorp'">흑자 기업만 보기</button>
+            <div class="login-screen" style="width: 50%">
+            <button class="btn btn-info ml-0" onclick="window.location.href='https://gros24.click/getCorp'">모든 회사 보기</button>
+            <button class="btn btn-info ml-0" onclick="window.location.href='https://gros24.click/getFilterCorp'">흑자 기업만 보기</button>
 
             <br/>
 
@@ -39,7 +40,7 @@
 
 
             %>
-            <div style="width: 900px; height: 100px;margin-bottom: 50px;">
+            <div style="margin-bottom: 50px;">
                 <!--차트가 그려질 부분-->
                 <canvas id="bar-chart-horizontal-<%=c.getCorpCode()%>"></canvas>
             </div>
@@ -48,6 +49,8 @@
             <%
                 }
             %>
+
+            </div>
         </div>
     </div>
 </div>
