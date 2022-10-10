@@ -93,7 +93,7 @@
                     };
                     console.log(jsonData);
                     $.ajax({
-                        url: 'https://gros19.click/resetProc',
+                        url: 'https://gros24.click/resetProc',
                         type: "POST",
                         data: {
                             "email": email,

@@ -130,7 +130,7 @@ public class MemberController {
         log.info(this.getClass().getName()+"resetRequest emailCheck 결과 : " + res);
 
         /*email 링크 클릭 시 접속 주소*/
-        String Durl = "https://gros19.click/EmailAuthPWRestProc";
+        String Durl = "https://gros24.click/EmailAuthPWRestProc";
 
         String result = "";
 
@@ -234,7 +234,7 @@ public class MemberController {
 
         int res = memberService.joinMember(pDTO);
 
-        String url = "https://gros19.click/EmailAuthProc";
+        String url = "https://gros24.click/EmailAuthProc";
 
         String result = "";
         if (res==1){

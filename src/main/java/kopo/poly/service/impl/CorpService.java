@@ -57,7 +57,7 @@ public class CorpService{
         Object objValue = null;
 
         try {
-            URI uri = new URI("http://127.0.0.1:5000/");
+            URI uri = new URI("http://3.37.86.35:5000/");
             uri = new URIBuilder(uri).build();
 
             CloseableHttpClient httpClient = HttpClients.custom()

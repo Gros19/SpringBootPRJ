@@ -66,7 +66,7 @@
                     let jsonData = {"email": email};
                     console.log(jsonData);
                     $.ajax({
-                        url: 'https://gros19.click/resetRequest',
+                        url: 'https://gros24.click/resetRequest',
                         type: "POST",
                         data: {"email": email},
 

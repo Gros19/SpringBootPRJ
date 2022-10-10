@@ -119,7 +119,7 @@
                     let jsonData = {"email": email, "password":password, "id":id};
                     console.log(jsonData);
                     $.ajax({
-                        url: 'https://gros19.click/signupProc',
+                        url: 'https://gros24.click/signupProc',
                         // url: 'http://localhost:8443/signupProc',
                         type: "POST",
                         data: {"email": email, "password":password, "id":id},
@@ -193,7 +193,7 @@
                         </div>
                         <hr>
                         <div class="m-0">
-                            <a href="https://gros19.click/login" class="btn btn-info ml-0">Login</a></span>
+                            <a href="https://gros24.click/login" class="btn btn-info ml-0">Login</a></span>
                         </div>
 
                     </div>
