@@ -442,18 +442,9 @@
     <div class="page-content">
 
         <div>
-            정은아
-            정은아
-            ㅎ
-            계속 부르고 싶네
+            사장님 우리 회사 매출 적자 아니죠??
         </div>
 
-        <div>
-            정은아
-            정은아
-            ㅎ
-            계속 부르고 싶네
-        </div>
         <!-- Header start -->
         <header class="header">
             <div class="toggle-btns">
