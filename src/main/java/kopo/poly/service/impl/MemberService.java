@@ -197,7 +197,7 @@ public class MemberService implements IMemberService {
         HtmlEmail email1 = new HtmlEmail();
         email1.setHostName("smtp.naver.com");
         email1.setSmtpPort(465);
-        email1.setAuthentication("wnnahd112@naver.com", "Growingsn*8");
+        email1.setAuthentication("wnnahd112@naver.com", "");
 
         email1.setSSLOnConnect(true);
         email1.setStartTLSEnabled(true);
