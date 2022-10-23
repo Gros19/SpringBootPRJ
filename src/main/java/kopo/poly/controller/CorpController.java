@@ -10,6 +10,7 @@ import org.json.JSONException;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
+import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -33,6 +34,7 @@ public class CorpController {
 
 
     @ResponseBody
+    @Scheduled(cron = "0 0 5 1 0 0")
     @GetMapping("/insertCorp")
     public String insertCorp() {
 
